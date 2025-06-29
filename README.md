@@ -69,7 +69,7 @@ I'd love to collaborate, learn, or just connect.
 
 ---
 
-## 📅 Log Begins: `Week 0 – June 30, 2025`
+## 📅 Log Begins: `Week 0 – June 29, 2025`
 
 Let’s build something insane.
 
