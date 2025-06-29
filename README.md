@@ -2,7 +2,7 @@
 
 Welcome to the public development log of **QuantPod**, a portable, low-latency hardware platform for executing quant trading strategies directly on the edge.
 
-QuantPod is designed to process alpha signals and execute trades with minimal latency, no cloud dependency, and full offline capability. This log documents the *non-sensitive* aspects of the build journey — from early sketches and part sourcing to hardware assembly and system validation.
+QuantPod is designed to process alpha signals and execute trades with minimal latency, no cloud dependency, and full offline capability. This log documents the *non-sensitive* aspects of the build journey from early sketches and part sourcing to hardware assembly and system validation.
 
 > 🚧 Core architecture, alpha logic, and internal execution engines are being developed privately under `QuantPod`.
 
@@ -12,7 +12,7 @@ QuantPod is designed to process alpha signals and execute trades with minimal la
 
 **QuantPod** aims to redefine how quant strategies are deployed by:
 - Eliminating cloud latency in trade execution
-- Running alphas locally on embedded hardware
+- Running alphas locally on embedded hardware (considering how amazing the hardware has been getting lately)
 - Enabling modular alpha injection and real-time decision processing
 - Supporting researchers, traders, and engineers who want edge-native quant infrastructure
 
@@ -71,5 +71,5 @@ I'd love to collaborate, learn, or just connect.
 
 ## 📅 Log Begins: `Week 0 – June 29, 2025`
 
-Let’s build something insane.
+Let’s build something 🥜🥜.
 
